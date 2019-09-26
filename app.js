@@ -28,5 +28,3 @@ const nps = (promoutersCount/3 - detractorsCount/3) * 100;
 console.log(nps);
 console.log(promoutersCount);
 console.log(detractorsCount);
-
-
